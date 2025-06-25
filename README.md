@@ -20,6 +20,6 @@
 
 # ✨️ News
 
-* **2025-6:** DeepVerse is released ! Also, check out our previous 4D diffusion world model [Aether](https://github.com/OpenRobotLab/Aether)!
+* **2025-6:** DeepVerse is released! Also, check out our previous 4D diffusion world model [Aether](https://github.com/OpenRobotLab/Aether)!
 
 
