@@ -125,7 +125,7 @@ Please follow the instructions below to experience DeepVerse!
     <table style="text-align: center; margin-left: auto; margin-right: auto;">
     <tr>
     <td>
-    <video controls width="100%" src="./assets/demo3.mp4" type="video/mp4">
+    <video src="https://github.com/user-attachments/assets/70104be3-e3ef-4adc-990b-14416d46214f" autoplay muted loop playsinline></video>
     </td>
     <td>
     <img src="assets/demo3_ply.png" width=75%>
@@ -192,7 +192,7 @@ Please follow the instructions below to experience DeepVerse!
     <table style="text-align: center; margin-left: auto; margin-right: auto;">
     <tr>
     <td>
-    <video controls width="100%" src="./assets/demo4.mp4" type="video/mp4">
+    <video src="https://github.com/user-attachments/assets/89adff5b-7e43-40ad-9685-22ffff03af34" autoplay muted loop playsinline></video>
     </td>
     <td>
     <img src="./assets/demo4_ply.png" width=75%>
@@ -212,10 +212,10 @@ If you want to use action control on non-3A game images (OOD), we recommend usin
 <table style="text-align: center; margin-left: auto; margin-right: auto;">
 <tr>
 <td>
-<video controls width="100%" src="./assets/demo5.mp4" type="video/mp4">
+<video src="https://github.com/user-attachments/assets/7934ca9a-c6f4-4d36-8b00-6683a191e291" autoplay muted loop playsinline></video>
 </td>
 <td>
-<video controls width="100%" src="./assets/demo6.mp4" type="video/mp4">
+<video src="https://github.com/user-attachments/assets/6116182c-487f-4650-a6ea-2d35bac4664c" autoplay muted loop playsinline></video>
 </td>
 </tr>
 
