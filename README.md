@@ -82,6 +82,7 @@ Please follow the instructions below to experience DeepVerse!
     <tr>
     <td>
     <video controls width="100%" src="./assets/demo1.mp4" type="video/mp4">
+    <video src="https://github.com/user-attachments/assets/9935da83-ae56-4672-8747-0f46e90f7b2b" autoplay muted loop playsinline></video>
     </td>
     <td>
     <video controls width="100%" src="./assets/demo2.mp4" type="video/mp4">
